@@ -8,5 +8,11 @@ public class Class1 {
 	public void firsttest() {
 		System.out.println("Test1");
 	}
+	
+	@Test
+	public void Third() {
+		System.out.println("Test3");
+	}	
+	
 
 }
